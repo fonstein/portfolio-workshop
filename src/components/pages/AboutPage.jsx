@@ -11,8 +11,7 @@ class AboutPage extends Component {
                     <div className="about-wrapper">
                     <div className="about-content">
                         <p>
-                        I like and hate <span className="highlight">JavaScript</span> and
-                        everything web.
+                        Analyst at Accenture with a MCs in Cybernetics and Robotics from NTNU
                         </p>
                         <p className="text-emoji">
                         \ (•◡•) /

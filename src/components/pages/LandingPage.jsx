@@ -13,9 +13,9 @@ const LandingPage = () => {
                         src="assets/31408194_10157395944219972_4290514995462012928_o.jpg"
                         alt="avatar"
                         className="avatar-img" />
-                    <div className="intro-name">Ingrid</div>
+                    <div className="intro-name">Ingrid Fjordheim Onstein</div>
                     <div className="tagline">
-                        Developer
+                        Analyst at Accenture
                     </div>
                     <SocialIcons />
                 </div>

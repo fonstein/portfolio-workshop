@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { ScrollToPage } from '../scroll';
 import PortfolioItem from '../portfolio/PortfolioItem';
+import { PortfolioAutosys, PortfolioMaster } from '../portfolio';
+
 
 class PortfolioPage extends Component {
     render() {
@@ -9,7 +11,10 @@ class PortfolioPage extends Component {
                 <div className="content-grid">
                     <h1>Portfolio</h1>
                     <div className="portfolio-wrapper">
-                        <PortfolioItem />
+                        <PortfolioAutosys />
+                    </div>
+                    <div className="portfolio-wrapper">
+                        <PortfolioMaster />
                     </div>
                 </div>
                 <ScrollToPage isFinal={true} pageSelector=".about-page" />

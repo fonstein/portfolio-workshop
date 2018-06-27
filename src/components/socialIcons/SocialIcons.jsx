@@ -4,7 +4,8 @@ const SocialIcons = () => {
   return (
     <div className="social-icons animate-icons">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/fonstein"><i className="fa fa-github"></i></a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/"><i className="fa fa-linkedin"></i></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/ingrid-fjordheim-onstein-1404b9115
+"><i className="fa fa-linkedin"></i></a>
       </div>
   );
 };

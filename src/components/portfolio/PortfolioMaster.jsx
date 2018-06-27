@@ -3,15 +3,13 @@ import React from 'react';
 const PortfolioItem = () => {
     return (
         <div className="portfolio-item">
-            <div className="portfolio-item__title">AUTOSYS</div>
+            <div className="portfolio-item__title">Master thesis</div>
 
             <div className="portfolio-item__desc">
-            PROJECT DESCRIPTION
+            Additive manufacturing using robot manipulators
             </div>
             <div className="portfolio-item__icon">
-                <i className="fa fa-js" />
-                <i className="fa fa-react" />
-                <i className="fa fa-html5" />
+                <i className="fa fa-python" />
             </div>
             <div className="portfolio-item__links">
             <a src="#">More</a>
