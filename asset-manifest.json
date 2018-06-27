@@ -1,7 +1,13 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.dd24af33.js",
-  "main.js.map": "static/js/main.dd24af33.js.map",
-  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg"
+  "main.css": "static/css/main.fe2fe072.css",
+  "main.css.map": "static/css/main.fe2fe072.css.map",
+  "main.js": "static/js/main.e2b57bf5.js",
+  "main.js.map": "static/js/main.e2b57bf5.js.map",
+  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
+  "static\\media\\reem-kufi-v4-latin-regular.woff": "static/media/reem-kufi-v4-latin-regular.20e4fd7e.woff",
+  "static\\media\\reem-kufi-v4-latin-regular.woff2": "static/media/reem-kufi-v4-latin-regular.d8f8811d.woff2",
+  "static\\media\\roboto-100.woff2": "static/media/roboto-100.9a8a1f8c.woff2",
+  "static\\media\\roboto-300.woff2": "static/media/roboto-300.c0cc9c92.woff2",
+  "static\\media\\roboto-400.woff2": "static/media/roboto-400.ece6673e.woff2",
+  "static\\media\\roboto-900.woff2": "static/media/roboto-900.2e17a648.woff2"
 }
